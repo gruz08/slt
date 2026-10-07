@@ -1,0 +1,16 @@
+[
+    {
+        "id": "708f06e39fb56091",
+        "league": "A",
+        "round": 1,
+        "date": "2026-10-14",
+        "month": "pazdziernik",
+        "time": "18:20",
+        "player1Id": "98d19b1b946423ed",
+        "player2Id": "b187722a3967b82a",
+        "location": "MOSiR Katowice",
+        "court": "1",
+        "status": "scheduled",
+        "score": null
+    }
+]

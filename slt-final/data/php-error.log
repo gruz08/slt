@@ -1,0 +1,28 @@
+[07-Oct-2026 16:40:16 Europe/Warsaw] PHP Warning:  session_start(): open(/tmp/sess_d9ca5b242ee3e1e6b57ddea3bdf9cfbb, O_RDWR) failed: No such file or directory (2) in /api/config.php on line 64
+[07-Oct-2026 16:40:16 Europe/Warsaw] PHP Warning:  session_start(): Failed to read session data: files (path: /tmp) in /api/config.php on line 64
+[07-Oct-2026 16:40:19 Europe/Warsaw] PHP Warning:  session_start(): open(/tmp/sess_d9ca5b242ee3e1e6b57ddea3bdf9cfbb, O_RDWR) failed: No such file or directory (2) in /api/config.php on line 64
+[07-Oct-2026 16:40:19 Europe/Warsaw] PHP Warning:  session_start(): Failed to read session data: files (path: /tmp) in /api/config.php on line 64
+[07-Oct-2026 16:40:27 Europe/Warsaw] PHP Warning:  session_start(): open(/tmp/sess_d9ca5b242ee3e1e6b57ddea3bdf9cfbb, O_RDWR) failed: No such file or directory (2) in /api/config.php on line 64
+[07-Oct-2026 16:40:27 Europe/Warsaw] PHP Warning:  session_start(): Failed to read session data: files (path: /tmp) in /api/config.php on line 64
+[07-Oct-2026 16:40:46 Europe/Warsaw] PHP Warning:  session_start(): open(/tmp/sess_bdf8743e5ed2dca64862837cdddf7307, O_RDWR) failed: No such file or directory (2) in /api/config.php on line 64
+[07-Oct-2026 16:40:46 Europe/Warsaw] PHP Warning:  session_start(): Failed to read session data: files (path: /tmp) in /api/config.php on line 64
+[07-Oct-2026 16:41:29 Europe/Warsaw] PHP Warning:  session_start(): open(/tmp/sess_5035793c684c8f71d92be1fb5188f922, O_RDWR) failed: No such file or directory (2) in /api/config.php on line 64
+[07-Oct-2026 16:41:29 Europe/Warsaw] PHP Warning:  session_start(): Failed to read session data: files (path: /tmp) in /api/config.php on line 64
+[07-Oct-2026 16:49:05 Europe/Warsaw] PHP Warning:  session_start(): open(/tmp/sess_d9ca5b242ee3e1e6b57ddea3bdf9cfbb, O_RDWR) failed: No such file or directory (2) in /api/config.php on line 64
+[07-Oct-2026 16:49:05 Europe/Warsaw] PHP Warning:  session_start(): Failed to read session data: files (path: /tmp) in /api/config.php on line 64
+[07-Oct-2026 16:50:07 Europe/Warsaw] PHP Warning:  session_start(): open(/tmp/sess_d9ca5b242ee3e1e6b57ddea3bdf9cfbb, O_RDWR) failed: No such file or directory (2) in /api/config.php on line 64
+[07-Oct-2026 16:50:07 Europe/Warsaw] PHP Warning:  session_start(): Failed to read session data: files (path: /tmp) in /api/config.php on line 64
+[07-Oct-2026 16:50:14 Europe/Warsaw] PHP Warning:  session_start(): open(/tmp/sess_d9ca5b242ee3e1e6b57ddea3bdf9cfbb, O_RDWR) failed: No such file or directory (2) in /api/config.php on line 64
+[07-Oct-2026 16:50:14 Europe/Warsaw] PHP Warning:  session_start(): Failed to read session data: files (path: /tmp) in /api/config.php on line 64
+[07-Oct-2026 16:50:32 Europe/Warsaw] PHP Warning:  session_start(): open(/tmp/sess_d9ca5b242ee3e1e6b57ddea3bdf9cfbb, O_RDWR) failed: No such file or directory (2) in /api/config.php on line 64
+[07-Oct-2026 16:50:32 Europe/Warsaw] PHP Warning:  session_start(): Failed to read session data: files (path: /tmp) in /api/config.php on line 64
+[07-Oct-2026 16:50:37 Europe/Warsaw] PHP Warning:  session_start(): open(/tmp/sess_d9ca5b242ee3e1e6b57ddea3bdf9cfbb, O_RDWR) failed: No such file or directory (2) in /api/config.php on line 64
+[07-Oct-2026 16:50:37 Europe/Warsaw] PHP Warning:  session_start(): Failed to read session data: files (path: /tmp) in /api/config.php on line 64
+[07-Oct-2026 16:50:38 Europe/Warsaw] PHP Warning:  session_start(): open(/tmp/sess_d9ca5b242ee3e1e6b57ddea3bdf9cfbb, O_RDWR) failed: No such file or directory (2) in /api/config.php on line 64
+[07-Oct-2026 16:50:38 Europe/Warsaw] PHP Warning:  session_start(): Failed to read session data: files (path: /tmp) in /api/config.php on line 64
+[07-Oct-2026 16:50:52 Europe/Warsaw] PHP Warning:  session_start(): open(/tmp/sess_d9ca5b242ee3e1e6b57ddea3bdf9cfbb, O_RDWR) failed: No such file or directory (2) in /api/config.php on line 64
+[07-Oct-2026 16:50:52 Europe/Warsaw] PHP Warning:  session_start(): Failed to read session data: files (path: /tmp) in /api/config.php on line 64
+[07-Oct-2026 16:51:15 Europe/Warsaw] PHP Warning:  session_start(): open(/tmp/sess_d9ca5b242ee3e1e6b57ddea3bdf9cfbb, O_RDWR) failed: No such file or directory (2) in /api/config.php on line 64
+[07-Oct-2026 16:51:15 Europe/Warsaw] PHP Warning:  session_start(): Failed to read session data: files (path: /tmp) in /api/config.php on line 64
+[07-Oct-2026 16:51:15 Europe/Warsaw] PHP Warning:  session_start(): open(/tmp/sess_d9ca5b242ee3e1e6b57ddea3bdf9cfbb, O_RDWR) failed: No such file or directory (2) in /api/config.php on line 64
+[07-Oct-2026 16:51:15 Europe/Warsaw] PHP Warning:  session_start(): Failed to read session data: files (path: /tmp) in /api/config.php on line 64

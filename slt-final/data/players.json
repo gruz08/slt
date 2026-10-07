@@ -1,0 +1,37 @@
+[
+    {
+        "id": "e03e1a9bfd4717b5",
+        "name": "Michał Garus",
+        "level": "Średniozaawansowany",
+        "city": "Katowice",
+        "active": true
+    },
+    {
+        "id": "6b9e289870fdd6de",
+        "name": "Michał Gamrot",
+        "level": "Średniozaawansowany",
+        "city": "Mysłowice",
+        "active": true
+    },
+    {
+        "id": "242b27f4f3d95769",
+        "name": "Antoni Kiwer",
+        "level": "Średniozaawansowany",
+        "city": "Sosnowiec",
+        "active": true
+    },
+    {
+        "id": "b187722a3967b82a",
+        "name": "Marcin Garus",
+        "level": "Średniozaawansowany",
+        "city": "Katowice",
+        "active": true
+    },
+    {
+        "id": "98d19b1b946423ed",
+        "name": "Artur Proksa",
+        "level": "Średniozaawansowany",
+        "city": "Mysłowice",
+        "active": true
+    }
+]

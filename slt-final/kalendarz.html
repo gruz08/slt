@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="pl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Kalendarz meczy Śląskiej Ligi Tenisa — sprawdź najbliższe spotkania i wyniki." />
+    <title>Kalendarz meczy — Śląska Liga Tenisa</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body data-page="calendar">
+    <a class="skip-link" href="#main-content">Przejdź do treści</a>
+    <header class="site-header"><div class="shell header-inner">
+      <a class="brand" href="index.html" aria-label="Śląska Liga Tenisa — strona główna"><span class="brand-mark" aria-hidden="true"><span>SL</span><i></i></span><span class="brand-copy"><strong>Śląska Liga</strong><small>Tenisa</small></span></a>
+      <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="primary-navigation"><span></span><span></span><span></span><span class="sr-only">Otwórz menu</span></button>
+      <nav id="primary-navigation" class="primary-nav" aria-label="Główna nawigacja"><a data-nav="home" href="index.html">Start</a><a data-nav="calendar" href="kalendarz.html">Kalendarz</a><a data-nav="about" href="o-lidze.html">O lidze</a><a class="nav-cta" data-nav="contact" href="kontakt.html">Kontakt <span>↗</span></a></nav>
+    </div></header>
+    <main id="main-content">
+      <section class="page-hero"><div class="shell page-hero-inner"><p class="eyebrow reveal">02 / Kalendarz</p><h1 class="reveal reveal-delay">Mecz po meczu.<br /><em>Bez wymówek.</em></h1><p class="page-intro reveal reveal-delay-2">Wybierz ligę i sprawdź, kto z kim gra w tym sezonie. Terminy aktualizujemy na bieżąco.</p></div><div class="page-hero-mark">PLAY</div></section>
+      <section class="section calendar-section"><div class="shell">
+        <div class="calendar-toolbar reveal"><div class="filter-tabs" role="group" aria-label="Filtruj po lidze"><button class="filter-tab active" type="button" data-filter="all">Wszystkie</button><button class="filter-tab" type="button" data-filter="A">Liga A</button><button class="filter-tab" type="button" data-filter="B">Liga B</button></div><label class="select-wrap"><span class="sr-only">Wybierz miesiąc</span><select id="month-filter"><option value="all">Cały sezon</option></select></label></div>
+        <div class="calendar-summary reveal reveal-delay"><span><strong id="summary-total">—</strong> zaplanowanych spotkań</span><span class="summary-divider"></span><span><strong id="summary-leagues">—</strong> ligi · <strong id="summary-locations">—</strong> lokalizacji</span><span class="calendar-updated" id="calendar-updated">Dane pobierane na żywo z terminarza</span></div>
+        <div class="schedule" id="schedule">
+          <p class="admin-table-empty">Wczytywanie terminarza…</p>
+        </div>
+        <div class="empty-state" id="empty-state" hidden><span class="empty-mark">—</span><h3>Brak spotkań dla tego filtra</h3><p>Spróbuj wybrać inną ligę lub miesiąc.</p></div>
+      </div></section>
+    </main>
+    <footer class="site-footer"><div class="shell footer-main"><div class="footer-brand"><a class="brand brand-footer" href="index.html"><span class="brand-mark" aria-hidden="true"><span>SL</span><i></i></span><span class="brand-copy"><strong>Śląska Liga</strong><small>Tenisa</small></span></a><p>Regularna gra.<br />Dobra rywalizacja.</p></div><div class="footer-nav"><span class="footer-label">Nawigacja</span><a href="index.html">Start</a><a href="kontakt.html">Kontakt</a><a href="o-lidze.html">O lidze</a></div><div class="footer-nav"><span class="footer-label">Napisz do nas</span><a href="mailto:hello@slaskaligatenisa.pl">hello@slaskaligatenisa.pl</a><span class="footer-muted">Katowice · Śląsk</span></div></div><div class="shell footer-bottom"><span>© <span data-year>2026</span> Śląska Liga Tenisa</span><span>Liga prowadzona przez znajomych z kortu.</span></div></footer>
+    <script src="script.js"></script>
+  </body>
+</html>
