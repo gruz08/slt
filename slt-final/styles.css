@@ -204,3 +204,23 @@ h1 span { color: #1d1d1f; }
 @media (max-width: 800px) {
   .game-row { grid-template-columns: 1fr; }
 }
+
+/* Tabela sezonu */
+.primary-nav { gap: clamp(12px, 1.8vw, 28px); }
+.primary-nav .nav-admin { padding: 9px 13px; border: 1px solid var(--green); border-radius: 999px; color: var(--green); font-size: 11px; white-space: nowrap; }
+.primary-nav .nav-admin::after { display: none; }
+.nav-admin:focus-visible, .standings-scroll:focus-visible { outline: 3px solid var(--green); outline-offset: 4px; }
+.standings-scroll { overflow-x: auto; border: 1px solid var(--line); border-radius: 14px; }
+.standings-table { width: 100%; min-width: 800px; border-collapse: collapse; font-variant-numeric: tabular-nums; }
+.standings-table th, .standings-table td { padding: 18px 14px; text-align: center; border-bottom: 1px solid var(--line); white-space: nowrap; }
+.standings-table thead { background: var(--forest); color: var(--paper); font-size: 11px; }
+.standings-table tbody { font-size: 13px; }
+.standings-table tbody th { text-align: left; color: var(--forest); }
+.standings-table td:nth-child(3) { font-weight: 700; color: var(--green); }
+.standings-table tbody tr:last-child > * { border-bottom: 0; }
+.standings-table tbody tr:nth-child(even) { background: #f5f5f7; }
+.standings-rules { max-width: 800px; margin-top: 32px; color: var(--muted); font-size: 13px; line-height: 1.7; }
+.standings-rules h2 { font-size: 24px; color: var(--forest); }
+#standings-status { margin: 22px 0; color: var(--muted); }
+@media (min-width: 801px) and (max-width: 1100px) { .header-inner { flex-wrap: wrap; padding-top: 14px; padding-bottom: 14px; gap: 16px; } .primary-nav { flex-wrap: wrap; } }
+@media (max-width: 800px) { .primary-nav .nav-admin { margin-top: 10px; text-align: center; } }
